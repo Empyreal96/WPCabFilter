@@ -66,7 +66,7 @@ namespace WPCabFilter
                 "Filter W10M Update Cabs using \"InstalledPackages.csv\"\n" +
                 "\nUsage:\n" +
                 "Retrieve \"InstalledPackages.csv\" from device and place next to \"WPCabFilter.exe\"\n" +
-                "   WPCabFilter.exe \"Path\\To\\Output\\Folder\" \"Path\\To\\Cab\\Files\" \n" +
+                "   WPCabFilter.exe \"Path\\To\\Cab\\Files\" \"Path\\To\\Output\\Folder\" \n" +
                 "\n");
             Console.ReadLine();
             Environment.Exit(1);
